@@ -51,6 +51,6 @@ def execute_pdf_extraction(pdf_file_path, output_zip_path):
         logging.exception("Exception encountered while executing operation")
 
 # Execute the PDF extraction operation
-execute_pdf_extraction("/mnt/32F6E6CAF6E68D83/BACKUP16DEC2/Home/Zotero/storage/62AFJW3Z/Lekshmy.pdf", "/home/vybhv/ExtractTextInfoFromPDF.zip")
+execute_pdf_extraction("/home/vybhv/Downloads/NCT.pdf", "/mnt/32F6E6CAF6E68D83/kaam/MIRACL/metadata2.zip")
 
 

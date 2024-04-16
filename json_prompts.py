@@ -25,7 +25,7 @@ def get_answer(question):
 questions = [
     # "What were the traditional methods used for epilepsy classification before the adoption of deep learning techniques?",
     # "What are some of the key feature extraction techniques mentioned in the paper for EEG signal analysis?",
-    "On which page can I find information about the methodology used in the study?"
+    "On which page can I find information about the methodology references used in the study?"
     # Add more questions as needed
 ]
 
